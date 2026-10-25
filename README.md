@@ -7,6 +7,9 @@ language, and accepting an item replaces the word with that code.
 
 Works with **blink.cmp** and **nvim-cmp**. Requires Neovim ≥ 0.10 and `curl`.
 
+## The core purpose of this plugin is to have conceptual snippets available to learn how to code
+using this snippets, rosetta code is the source for now.
+
 ## How it works
 
 1. The word before the cursor (`binarySearch` / `binary_search` / `binary-search`) becomes the
