@@ -7,7 +7,19 @@ language, and accepting an item replaces the word with that code.
 
 Works with **blink.cmp** and **nvim-cmp**. Requires Neovim ≥ 0.10 and `curl`.
 
-## The core purpose of this plugin is to have conceptual snippets available to learn how to code
+## The core purpose of this plugin
+The core purpose of this plugin is to have conceptual snippets available to learn how to code
+
+## How to use this?
+```
+nvim /tmp/test.rs
+```
+in vom
+```
+fn fibon
+```
+This will give you the implementatiojns for rust listed in rosetta code.
+
 using this snippets, rosetta code is the source for now.
 
 ## How it works
