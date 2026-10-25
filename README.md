@@ -14,7 +14,7 @@ The core purpose of this plugin is to have conceptual snippets available to lear
 ```
 nvim /tmp/test.rs
 ```
-in vom
+in vim
 ```
 fn fibon
 ```
