@@ -18,7 +18,7 @@ in vim
 ```
 fn fibon
 ```
-This will give you the implementatiojns for rust listed in rosetta code.
+This will give you the implementations for rust listed in rosetta code.
 
 using this snippets, rosetta code is the source for now.
 
