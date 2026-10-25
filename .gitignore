@@ -1,0 +1,19 @@
+CLAUDE.md
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+build/
+dist/
+*.class
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and secrets
+*.log
+.env
